@@ -1,0 +1,29 @@
+{
+  "name": "juntachain",
+  "version": "1.0.0",
+  "description": "Es una plataforma web descentralizada que digitaliza las tradicionales “juntas de dinero”, permitiendo a los usuarios crear, unirse y gestionar juntas mediante **tecnología blockchain (Ethereum/Scroll Sepolia)**.",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YisusCode1/JuntaChain.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YisusCode1/JuntaChain/issues"
+  },
+  "homepage": "https://github.com/YisusCode1/JuntaChain#readme",
+  "devDependencies": {
+    "@types/node": "^24.10.0",
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "ethers": "^6.15.0"
+  }
+}

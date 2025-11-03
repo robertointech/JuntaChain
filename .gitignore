@@ -69,3 +69,5 @@ build/
 # ========================
 *.sql
 *.dump
+node_modules/
+node_modules/
